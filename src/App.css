@@ -1,0 +1,10 @@
+.mainDiv{
+  background-color: rgb(6, 6, 206);
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content:center;
+  margin: auto;
+  width:70%;
+  gap: 20px;
+}
+
